@@ -6,3 +6,7 @@
 - start preprocessing
 
 - word embeddings for feature extracion
+
+
+REPORT
+- write about the libraries that we used or txt files for pip install
